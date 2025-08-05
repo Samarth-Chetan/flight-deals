@@ -30,3 +30,10 @@ The system integrates with:
 - flight_data.py # Finds and structures the cheapest flight
 - notification_manager.py # Sends notifications via WhatsApp and email
 - .env # Stores sensitive environment variables (not committed)
+
+## 🛠 Requirements
+- Python 3.8+
+- [Amadeus API](https://developers.amadeus.com/)
+- [Twilio API](https://www.twilio.com/)
+- [Sheety API](https://sheety.co/)
+- SMTP server access (e.g., Gmail)
